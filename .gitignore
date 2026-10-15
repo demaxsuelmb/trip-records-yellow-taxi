@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Spark / Delta local
+spark-warehouse/
+metastore_db/
+derby.log
+data/
+*.parquet
